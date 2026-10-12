@@ -1,5 +1,8 @@
 # graph-lang
-An experimental graph-based programming language.
+An experimental graph-based programming language,
+intended to be built through live [literate programming](https://en.wikipedia.org/wiki/Literate_programming);
+open research and development of the [documentation](docs) and
+respective [source code](src).
 
 Start [Here.](docs/0-Introduction.md)
 
