@@ -1,4 +1,4 @@
-import graph from '/lib/graph.json';
+import graph from 'src/lib/graph.json';
 import { error } from '@sveltejs/kit';
 
 export function load({ params }) {
