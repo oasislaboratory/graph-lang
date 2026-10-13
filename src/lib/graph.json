@@ -1,8 +1,8 @@
 [
-  [{"id":"1", "value":1}, {"id":"2", "value":2}, {"id":"3", "value":3}],
+  ["a", "b", "c"],
   [
-    [null, null, null],
-    [null, null, null],
-    [null, null, null]
+    [null, 1, null],
+    [null, null, 1],
+    [1, null, null]
   ]
 ]
