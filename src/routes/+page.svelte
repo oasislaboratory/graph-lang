@@ -1,6 +1,6 @@
 <h1>Graph:</h1>
 <script>
-  import graph from '$lib/graph.json';
+  import graph from '#lib/graph.json';
 
   const vertices = graph[0];
 </script>
