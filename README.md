@@ -1,6 +1,6 @@
 # graph-lang
 Experimenting with graph-based computation
-through open research: scientific-literate programming
+through open research: scientific literate programming
 of the [documentation](docs) and respective [source code](src).
 
 Start [Here.](docs/0-Introduction.md)
