@@ -1,18 +1,14 @@
-# (0.0) Introduction 
+# 0. Introduction
 
-## (0.1) What is Graph Lang
-Graph Lang is an experimental graph-based programming language. 
-Its initial intermediate representation (IR) is an adjacency matrix,
-expressed as a tuple of a vertex vector and morphism matrix: ((vertices) (morphisms)),
-inspired in part by [Design Structure Matrices (DSM's)](https://en.wikipedia.org/wiki/Design_structure_matrix).
+Welcome to graph-lang! These documents serve as a living research notebook and reference hypertext for our study of graph computation. The source code builds a browser-native graph explorer, evolving alongside our understanding of the theory.
 
-## (0.2) Motivations
-Other influences include Judea Pearl's work on causal networks and reasoning, category
-theory and ologs, and Lisp's homoiconicity. Directed acyclic graphs
-(DAGs) like OKRs or org charts, and systems like Git further demonstrate
-the leverage of simple relationships.
+The central thesis is that graphs may serve not only as convenient data representations, but also as homoiconic structures, much like Lisp's symbolic expressions, capable of representing programs themselves.
 
-## (0.3) Status
-The first implementation will use [SvelteKit](https://svelte.dev/docs/kit/introduction)
-to render navigable graphs in the browser. Current research involves graph evaluation
-and transformation. Both the implementation and research are free and open source, and open to collaboration.
+## Table of Contents
+
+1. [Relations](1-Relations.md)
+2. [Graphs and Categories](2-Graphs-and-Categories.md)
+3. [Graph Representation](3-Graph-Representation.md)
+4. [Implementation](4-Implementation.md)
+5. [Computation and Evaluation](5-Computation-and-Evaluation.md)
+6. [Continued Reading and Bibliography](6-Continued-Reading.md)
