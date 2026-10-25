@@ -1,2 +1,2 @@
 # Bibliography
-## Bondy, J. A., & Murty, U. S. R. Springer. 2008.
+## Bondy, J. A., & Murty, U. S. R. Graph Theory. Springer, 2008.
