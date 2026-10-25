@@ -2,7 +2,7 @@
 
 Yes, our research centers around graphs. Picture a graph. Perhaps you are imagining a chart or the graph of an equation on a cartesian plane. In the mathematical field of graph theory, graphs have a specific definition, representing a network of nodes connected by edges:
 
-A graph \(G\) is an ordered pair \((V(G), E(G))\) consisting of a set \(V(G)\) of vertices and a set \(E(G)\), disjoint from \(V(G)\), of edges, together with an incidence function \(\psi_G\) that associates with each edge of \(G\) an unordered pair of (not necessarily distinct) vertices of \(G\). [[1]](./bibliography.md#1-bondy-and-murty-2008)
+A graph \(G\) is an ordered pair \((V(G), E(G))\) consisting of a set \(V(G)\) of vertices and a set \(E(G)\), disjoint from \(V(G)\), of edges, together with an incidence function \(\psi_G\) that associates with each edge of \(G\) an unordered pair of (not necessarily distinct) vertices of \(G\). [[1]](./bibliography.md#Bondy, J. A., & Murty, U. S. R. Springer. 2008.)
 
 We will loosely adopt this [set-builder](https://en.wikipedia.org/wiki/Set-builder_notation) definition of graph in our work, because while it may look entirely abstract and different from more visual charts, it too can be applied to model the same relations, and expressed visually.
 
