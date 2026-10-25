@@ -8,7 +8,7 @@ We will loosely adopt this [set-builder](https://en.wikipedia.org/wiki/Set-build
 
 Pure mathematicians, being precise with their abstractions, distinguish graphs themselves from their set-theoretic or notational, and visual representations. This view essentially constructs a hierarchy of identity with abstraction (platonic ideal) at the top, elegant language next, and visual representations or applications at the base. Throughout this text, however, we take a more applied view. Rather than treating abstract objects as more mathematically fundamental than their representations, we will study the representations as mathematical objects in their own right. A function can appear as a curve, an equation, or a table of inputs and outputs; all facets of the same gem.
 
-Graphs were so named for their ability to be represented visually. Perhaps due to this, they are often used in the study of physical networks and relationships. Following our applied view, we take the underlying physical relationship or any visualizations to be essentially the platonic graph itself, perhaps undergoing a single mapping function, like from adjacency matrix to network of computers, that function relating each node and edge to a computer and connection.
+Graphs were so named for their ability to be represented visually. Perhaps due to this, they are often used in the study of physical networks and relationships. Following our applied view, we ask what if the abstract graph itself was equivalent to the network it represents, perhaps undergoing a single mapping function. The map is not the terrain, but is only one function away.
 
 Notes
 1. Bondy and Murty, "Graph Theory", 2.
