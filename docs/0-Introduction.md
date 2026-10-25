@@ -6,9 +6,11 @@ The central thesis is that graphs may serve not only as convenient data represen
 
 ## Table of Contents
 
-1. [Relations](1-Relations.md)
-2. [Graphs and Categories](2-Graphs-and-Categories.md)
-3. [Graph Representation](3-Graph-Representation.md)
-4. [Implementation](4-Implementation.md)
-5. [Computation and Evaluation](5-Computation-and-Evaluation.md)
-6. [Continued Reading and Bibliography](6-Continued-Reading.md)
+1. [Graphs](1-Graphs.md)
+2. [Notation](2-Notation.md)
+3. [Arrows](3-Arrows.md)
+4. [Recursion](4-Recursion.md)
+5. [Primitives](5-Primitives.md)
+6. [Syntax](6-Syntax.md)
+7. [Semantics](7-Semantics.md)
+8. [Bibliography](8-Bibliography.md)
